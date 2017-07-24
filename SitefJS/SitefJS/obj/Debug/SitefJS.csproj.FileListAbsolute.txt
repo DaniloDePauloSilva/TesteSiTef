@@ -1,0 +1,11 @@
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\bin\Debug\SitefJS.exe.config
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\bin\Debug\SitefJS.exe
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\bin\Debug\SitefJS.pdb
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\obj\Debug\SitefJS.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\obj\Debug\SitefJS.Principal.resources
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\obj\Debug\SitefJS.Properties.Resources.resources
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\obj\Debug\SitefJS.csproj.GenerateResource.Cache
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\obj\Debug\SitefJS.exe
+C:\Users\Paulo Silva\Desktop\Material\ALURA\SitefJS\SitefJS\obj\Debug\SitefJS.pdb
